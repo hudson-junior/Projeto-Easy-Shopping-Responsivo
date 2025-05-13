@@ -22,4 +22,4 @@ Este é um projeto de uma loja virtual desenvolvida em ![HTML](https://img.shiel
 ## 🧑‍💻 Desenvolvido por
 
 Hudson Júnior  
-[LinkedIn](https://linkedin.com/in/ohudsonjunior) • [GitHub](https://github.com/hudson-junior)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ohudsonjunior) • [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/hudson-junior)
