@@ -12,7 +12,14 @@ Este é um projeto de uma loja virtual desenvolvida em ![HTML](https://img.shiel
 
 ## 🎯 Layout do projeto
 
-<p>
-  <img src="screenshot.png" alt="Imagem do projeto" width="50%"/>
-  <img src="screenshot.png" alt="Imagem do projeto" width="50%"/>
+<p aling="center">
+  <img src="img/Desktop.png" alt="Versão desktop" width="45%"/>
+  <img src="img/Mobile.png" alt="Versão mobile" width="45%"/>
 </p>
+
+## ✅ Projeto finalizado
+
+## 🧑‍💻 Desenvolvido por
+
+Hudson Júnior  
+[LinkedIn](https://linkedin.com/in/ohudsonjunior) • [GitHub](https://github.com/hudson-junior)
